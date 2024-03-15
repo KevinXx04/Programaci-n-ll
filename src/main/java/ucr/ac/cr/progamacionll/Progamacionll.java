@@ -11,6 +11,6 @@ package ucr.ac.cr.progamacionll;
 public class Progamacionll {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("BUEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEENAAAAAAAAAAAAAAAAAAAAAAAAAAAAS");
     }
 }
